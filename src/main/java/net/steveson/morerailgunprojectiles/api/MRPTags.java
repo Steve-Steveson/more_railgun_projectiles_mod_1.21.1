@@ -11,8 +11,6 @@ public class MRPTags {
 
     }
 
-//    public static final TagKey<Item> RODS_STICK = createTag("rods/wooden");
-
     public static final TagKey<Item> RODS_CONSTANTAN = createTag("rods/constantan");
     public static final TagKey<Item> RODS_URANIUM = createTag("rods/uranium");
     public static final TagKey<Item> RODS_LEAD = createTag("rods/lead");

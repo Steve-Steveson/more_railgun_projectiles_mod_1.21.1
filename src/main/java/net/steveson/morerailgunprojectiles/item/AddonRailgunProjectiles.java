@@ -7,11 +7,6 @@ public class AddonRailgunProjectiles {
 
     public static void register(){
 
-//        // Test Stick
-//        RailgunHandler.registerStandardProjectile(MRPTags.RODS_STICK, 20, 1).setColorMap(
-//                new RailgunHandler.RailgunRenderColors(0xAA0000, 0xAAAA00, 0x00AA00, 0x00AAAA, 0x0000AA, 0xAA00AA)
-//        );
-
         // Lead
         RailgunHandler.registerStandardProjectile(MRPTags.RODS_LEAD, 20, 60).setColorMap(
                 new RailgunHandler.RailgunRenderColors(0x5a6074, 0x5a6074, 0x5a6074, 0x424656, 0x2a2e37, 0x2a2e37)
