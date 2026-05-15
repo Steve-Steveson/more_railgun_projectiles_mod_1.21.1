@@ -1,4 +1,4 @@
-package net.steveson.solidgoldstairs;
+package net.steveson.morerailgunprojectiles;
 
 import java.util.List;
 
